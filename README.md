@@ -20,4 +20,4 @@ However, stemming can sometimes produce words that are not actual words, whereas
 Named Entity Recognition (NER) is a process of identifying named entities (such as names of people, organizations, locations, etc.) in text.
 We use the spaCy library, which provides a pre-trained model for NER.
 The NER model identifies entities in the text and assigns them labels such as PERSON, ORG, LOC, etc.
-This step can be useful for extracting important information from the text, such as the names of people or organizations mentioned in news headlines.
+This step can be useful for extracting important information from the text, such as the names of people or organizations mentioned in news of headlines.
